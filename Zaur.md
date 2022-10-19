@@ -564,17 +564,8 @@ git commit -am "Navigation fixs"   # сделать коммит
 Простое решение: [указать git кешировать ваш пароль](https://help.github.com/articles/caching-your-github-password-in-git/).
 
 
-
-## `.gitattributes`
-
-```
-* text=auto
-
-*.html diff=html
-*.css  diff=css
-*.scss diff=css
-
 # Проверка понимания паттерна MVC для WEBdev и MVVM для desktop-dev
+
 # Архитектура MVC
 
 Архитектура MVC позволяет нам разделить код приложения на 3 части: Модель (Model), Вид или Представление (View) и Контроллер (Controller). Впервые она была описана в 1978 году, и предназначалась для приложений с графическим интерфейсом (окошками и кнопками), но позже была адаптирована и для веб-приложений.
